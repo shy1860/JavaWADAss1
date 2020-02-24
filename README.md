@@ -1,6 +1,8 @@
 # Java_web-development_assignment
 For Kevin Teran and Yu Shi only
 
+## This assignment allows user navigates throughout the website when the credential validation is correct.
+
 1.  Login validation with RegEx
 2.  Register
 3.  Reset password
